@@ -82,6 +82,16 @@
 <a href="#"><img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Desktop Badge"></a>
 </p>
 
+### Study repositories:
+
+- **[CS Study](https://github.com/jimin9703/cs-study)**
+- **[LLM Study](https://github.com/jimin9703/llm-study)**
+- **[Coding Test](https://github.com/jimin9703/baekjoon)**
+
+### Some awesome repos that Me and My team members have made:
+
+- **[SpeakingPotato - Trip Reservartion Web Application](https://github.com/jimin9703/SKN01-2nd-3Team)**
+
 <h2>📊 Github Stats and Activity</h2>
 
 <h3>🔥 Streak Stats</h3>
