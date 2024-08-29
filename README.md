@@ -1,6 +1,5 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=31FF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+World+!;+I'm+Jimin+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+Jimin's+Github+!;Just+do+it+!;Whatever+you+want;Have+a+good+one+!)](https://git.io/typing-svg)
+
 
 ![profile-view](https://komarev.com/ghpvc/?username=jimin9703)
 <br>
