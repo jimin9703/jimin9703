@@ -21,23 +21,21 @@
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://discordapp.com/users/514430311451459599" target="blank"><img align="center" src="https://www.svgrepo.com/show/349338/discord.svg" alt="discord" height="30" width="30" /></a>
-<a href="mailto:jaehyuk213@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="email" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/619077725499424769" target="blank"><img align="center" src="https://www.svgrepo.com/show/349338/discord.svg" alt="discord" height="30" width="30" /></a>
+<a href="mailto:moseskim0322@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon.png" alt="email" height="30" width="30" /></a>
 </p>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jh-jaehyuk.github.io/)](https://jh-jaehyuk.github.io/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jimin9703.github.io/)](https://velog.io/@jimin9703/posts)
         
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
-<a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=000&style=flat"></a>
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat"></a>
 </p>
 
 <h2>🧰 Frameworks and Libraries</h2>
@@ -70,7 +68,6 @@
 <h2>💻 Software and Tools</h2>
 
 <p>
-<a href="#"><img alt="Macos" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
@@ -83,7 +80,6 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker%20Desktop-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Desktop Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat" alt="Xcode Badge"></a>
 </p>
 
 <h2>📊 Github Stats and Activity</h2>
@@ -91,28 +87,16 @@
 <h3>🔥 Streak Stats</h3>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jh-jaehyuk&theme=dracula" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jimin9703&theme=dracula" alt="GitHub Streak" /></a>
 </p>
 
 <h3>📊 GitHub Profile Stats</h3>
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jh-jaehyuk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh-jaehyuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimin9703&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>📚 Problem Solving Stats</h3>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=J213h)](https://solved.ac/J213h)
-
-<br>
-
-<p align="center"> <img src="https://profile-counter.glitch.me/{Jh-jaehyuk}/count.svg" alt="Jh-jaehyuk" /> </p>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
@@ -121,4 +105,3 @@
 -----
 Credits: [Jh-jaehyuk](https://github.com/Jh-jaehyuk)
 
-Last Edited on: 16/08/2024
