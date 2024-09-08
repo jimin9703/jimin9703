@@ -4,7 +4,7 @@
 ![profile-view](https://komarev.com/ghpvc/?username=jimin9703)
 <br>
 <p>
-  I'm Jimin. I have a Bachelors' Degree in Artificial Intelligence. 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve algorithm problems 🚀. Apart from that I also love swimming🏊‍♂️ and play games🎮. I'm currently into Full stack AI Development 🤖 and working on python 🐍.
+  Hello! I'm Jimin. I have a Bachelors' Degree in Artificial Intelligence. 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve algorithm problems 🚀. Apart from that I also love swimming🏊‍♂️ and play games🎮. I'm currently into Full stack AI Development 🤖 and working on python 🐍.
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
