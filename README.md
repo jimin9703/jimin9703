@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+Jimin's+Github;Whatever+you+want;Just+do+it+!;Have+a+good+one+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+Jimin's+Github+!;Whatever+you+want;Just+do+it+!;Have+a+good+one+!)](https://git.io/typing-svg)
 
 
 ![profile-view](https://komarev.com/ghpvc/?username=jimin9703)
